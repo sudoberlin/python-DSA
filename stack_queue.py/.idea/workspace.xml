@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b9ffb4e-fb1d-4d05-b2c6-cb4a5faae31f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stack.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XzWTePezjLDVnPuIwyxjJi6PE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" singleton="false">
+      <module name="stack_queue.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b9ffb4e-fb1d-4d05-b2c6-cb4a5faae31f" name="Default Changelist" comment="" />
+      <created>1582049412838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582049412838</updated>
+      <workItem from="1582049417013" duration="1672000" />
+      <workItem from="1582132494149" duration="2655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="209" width="800" height="685" key="#Notifications" timestamp="1582050074325">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="558" y="209" width="800" height="685" key="#Notifications/0.27.1920.1052@0.27.1920.1052" timestamp="1582050074325" />
+    <state x="422" y="198" width="1076" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582050019126">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="422" y="198" width="1076" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1052@0.27.1920.1052" timestamp="1582050019126" />
+    <state x="480" y="92" width="956" height="920" key="CommitChangelistDialog2" timestamp="1582135180321">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="480" y="92" width="956" height="920" key="CommitChangelistDialog2/0.27.1920.1052@0.27.1920.1052" timestamp="1582135180321" />
+    <state x="746" y="316" width="424" height="492" key="FileChooserDialogImpl" timestamp="1582049974502">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="746" y="316" width="424" height="492" key="FileChooserDialogImpl/0.27.1920.1052@0.27.1920.1052" timestamp="1582049974502" />
+    <state x="452" y="183" width="1016" height="738" key="SettingsEditor" timestamp="1582049589857">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="452" y="183" width="1016" height="738" key="SettingsEditor/0.27.1920.1052@0.27.1920.1052" timestamp="1582049589857" />
+    <state x="730" y="468" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582135149611">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="730" y="468" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1052@0.27.1920.1052" timestamp="1582135149611" />
+    <state x="623" y="251" key="search.everywhere.popup" timestamp="1582049742079">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="623" y="251" key="search.everywhere.popup/0.27.1920.1052@0.27.1920.1052" timestamp="1582049742079" />
+  </component>
+</project>
