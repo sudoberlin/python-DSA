@@ -38,7 +38,7 @@ class CircularQueue:
             return popval
 
 
-cq = CircularQueue(5)
+cq = CircularQueue(10)
 cq.enqueue(14)
 cq.enqueue(22)
 cq.enqueue(13)
