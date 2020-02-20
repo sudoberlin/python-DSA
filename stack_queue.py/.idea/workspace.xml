@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9ffb4e-fb1d-4d05-b2c6-cb4a5faae31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +78,23 @@
       <option name="presentableId" value="Default" />
       <updated>1582049412838</updated>
       <workItem from="1582049417013" duration="1672000" />
-      <workItem from="1582132494149" duration="2655000" />
+      <workItem from="1582132494149" duration="7542000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1582135180413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582135180413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1582135282480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582135282480</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +112,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="209" width="800" height="685" key="#Notifications" timestamp="1582050074325">
@@ -118,10 +138,10 @@
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
     <state x="452" y="183" width="1016" height="738" key="SettingsEditor/0.27.1920.1052@0.27.1920.1052" timestamp="1582049589857" />
-    <state x="730" y="468" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582135149611">
+    <state x="730" y="460" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582224563747">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
-    <state x="730" y="468" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1052@0.27.1920.1052" timestamp="1582135149611" />
+    <state x="730" y="460" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1052@0.27.1920.1052" timestamp="1582224563747" />
     <state x="623" y="251" key="search.everywhere.popup" timestamp="1582049742079">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
