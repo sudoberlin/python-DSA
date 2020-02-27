@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9ffb4e-fb1d-4d05-b2c6-cb4a5faae31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/circular_queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +34,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BST.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +43,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Code" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" singleton="false">
@@ -82,7 +84,9 @@
       <option name="presentableId" value="Default" />
       <updated>1582049412838</updated>
       <workItem from="1582049417013" duration="1672000" />
-      <workItem from="1582132494149" duration="10221000" />
+      <workItem from="1582132494149" duration="10487000" />
+      <workItem from="1582369284386" duration="529000" />
+      <workItem from="1582572731910" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1582135180413</created>
@@ -105,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582224600183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1582231941775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582231941775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,10 +152,10 @@
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
     <state x="480" y="68" width="956" height="920" key="CommitChangelistDialog2/0.27.1920.1052@0.27.1920.1052" timestamp="1582231941727" />
-    <state x="746" y="316" width="424" height="492" key="FileChooserDialogImpl" timestamp="1582049974502">
+    <state x="746" y="300" width="424" height="492" key="FileChooserDialogImpl" timestamp="1582573009543">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
-    <state x="746" y="316" width="424" height="492" key="FileChooserDialogImpl/0.27.1920.1052@0.27.1920.1052" timestamp="1582049974502" />
+    <state x="746" y="300" width="424" height="492" key="FileChooserDialogImpl/0.27.1920.1052@0.27.1920.1052" timestamp="1582573009543" />
     <state x="50" y="294" width="855" height="516" key="IDE.errors.dialog" timestamp="1582224616383">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
@@ -157,9 +168,9 @@
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
     <state x="730" y="452" width="459" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1052@0.27.1920.1052" timestamp="1582231936247" />
-    <state x="623" y="251" key="search.everywhere.popup" timestamp="1582049742079">
+    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1582572857095">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
-    <state x="623" y="251" key="search.everywhere.popup/0.27.1920.1052@0.27.1920.1052" timestamp="1582049742079" />
+    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup/0.27.1920.1052@0.27.1920.1052" timestamp="1582572857095" />
   </component>
 </project>
