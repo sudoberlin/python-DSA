@@ -1,0 +1,9 @@
+# IDE config files
+.idea/
+*/.idea/
+BST.py/.idea/
+sorting.py/.idea/
+stack_queue.py/.idea/
+
+# Byte files
+__pycache__/
